@@ -12,7 +12,6 @@ class ContentDetailPage extends StatefulWidget {
 }
 
 //commit work
-
 class _ContentDetailPageState extends State<ContentDetailPage> {
   @override
   Widget build(BuildContext context) {
